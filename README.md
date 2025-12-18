@@ -3,16 +3,6 @@
 Aplicación web interactiva inspirada en el juego **Wordle**, replicando sus reglas clásicas y dinámicas principales.
 Se desarrolló en **React** y **Typescript**, consumiendo una **API REST** externa para gestionar sesiones, validar palabras y seleccionar entre distintos niveles de dificultad. Se centró en ofrecer una **interfaz atractiva**, **intuitiva** y **responsive**.
 
-### Funcionalidades principales
-- Conexión con la API para gestionar sesiones, niveles de dificultad y validar palabras.
-- Selección de niveles de dificultad.
-- Feedback visual de la validación de palabras en tiempo real.
-- Manejo de múltiples partidas.
-- Lógica para determinar victoria o derrota.
-- Loading mientras la API carga.
-- Manejo de errores con notificacion si la palabra no es válida.
-- Interfaz intuitiva y responsive.
-
 ### Tecnologías utilizadas
 - React
 - TypeScript
@@ -31,6 +21,16 @@ Se desarrolló en **React** y **Typescript**, consumiendo una **API REST** exter
   <img src="./images/5.png" alt="Imagen del proyecto" width="250"/>
   <img src="./images/6.png" alt="Imagen del proyecto" width="250"/>
 </p>
+
+### Funcionalidades principales
+- Conexión con una API externa para gestionar sesiones, niveles de dificultad y validar palabras.
+- Selección de niveles de dificultad.
+- Feedback visual de la validación de palabras en tiempo real.
+- Manejo de múltiples partidas.
+- Lógica para determinar victoria o derrota.
+- Loading mientras la API carga.
+- Manejo de errores con notificacion si la palabra no es válida.
+- Interfaz intuitiva y responsive.
 
 ### ¿Cómo descargar y ejecutar el proyecto?
 
